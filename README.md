@@ -18,12 +18,10 @@ Choose your preferred programming language and open the respective file for edit
 Once you have made changes, execute the test script to check your implementation (any one of the following):  
 ```bash
 ./test-cpp.sh
+```
+```bash
 ./test-py.sh
+```
+```bash
 ./test-java.sh
 ```
-
-This script will:  
-✅ Compile and run your program  
-✅ Provide test input  
-✅ Compare your program's output with the expected result  
-✅ Show whether your solution passes or fails  
