@@ -15,7 +15,7 @@ Choose your preferred programming language and open the respective file for edit
 ## **4️⃣Read the contents of the file properly and make changes in the file where needed**
 
 ## **5️⃣Run the Test Script**  
-Once you have made changes, execute the test script to check your implementation:  
+Once you have made changes, execute the test script to check your implementation (any one of the following):  
 ```bash
 ./test-cpp.sh
 ./test-py.sh
