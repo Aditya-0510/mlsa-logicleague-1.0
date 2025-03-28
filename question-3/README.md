@@ -1,0 +1,1 @@
+This program finds the highest frequency character in a given string. For multiple test cases, it reads a string, counts the occurrences of each character and determines the character with the highest frequency. The result is then printed for each test case.
